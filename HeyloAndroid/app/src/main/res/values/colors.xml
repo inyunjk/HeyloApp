@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#CCCCCC</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_pink">#FF69B4</color>
+    <color name="gradient_orange">#FFA500</color>
+    <color name="gradient_gold">#FFD700</color>
+    <color name="gradient_green">#32CD32</color>
+    <color name="gradient_blue">#00BFFF</color>
+    <color name="gradient_purple">#9370DB</color>
+    <color name="gradient_red">#FF4500</color>
+</resources>
